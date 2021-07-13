@@ -1,0 +1,3 @@
+application:
+  audit:
+    file-path: /tmp/audit.csv
